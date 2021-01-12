@@ -66,7 +66,7 @@
             <a href="https://github.com/LisaCollignon" target="_blank" class="">
               <img class="w-7 p-1 rounded hover:bg-opacity-20"
                    :class="getCurrentHoverColor"
-                   src="src/assets/GitHub-Mark-Light-32px.png"/>
+                   src="/src/assets/GitHub-Mark-Light-32px.png"/>
             </a>
           </div>
 
