@@ -4,7 +4,7 @@
     <div class="flex relative">
       <div class="space-y-4 transform -translate-x-8 bg-white bg-opacity-30 w-80 h-80 md:w-172 md:h-172 rounded-full text-center p-12">
         <h2 class="text-xl uppercase font-semibold">Mijn allereerste project!</h2>
-        <img class="w-52 mx-auto" src="/src/assets/omnimove.png" alt="">
+        <img class="w-52 mx-auto" src="/src/assets/Omnimove.png" alt="">
         <p class="hidden md:block">Bij deze webste hoort een speciaal verhaal.
           Deze website is gemaakt voor (CrossFit) Omnimove. Of eigenlijk is deze gemaakt voor STER atleet en coach Lien
           Van Hemelen.
