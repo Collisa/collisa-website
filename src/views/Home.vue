@@ -87,7 +87,7 @@
       <div class="w-2/3 flex flex-row relative mr-6">
         <img class="ml-12 mb-12 bg-white p-1 rounded-lg w-16 self-end hidden md:block" src="/src/assets/website.svg"/>
         <div class="m-10 flex flex-col text-justify">
-          -- Ben je niet alleen op zoek naar een website, maar naar een web applicatie op maat gemaakt?
+          -- Ben je niet alleen op zoek naar een website, maar naar een webapplicatie op maat gemaakt?
           Ook hiervoor ben je bij mij op de juiste plaats! Samen kunnen we net datgene maken dat jij nodig hebt! --
           <router-link class="z-10 mt-6 self-end bg-purplepink-500 bg-opacity-70 py-1 px-2 rounded-lg text-pink-200 text-opacity-40 text-xs sm:text-sm md:text-base" to="/contact">
             Let's talk!

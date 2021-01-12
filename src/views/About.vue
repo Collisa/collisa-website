@@ -22,7 +22,7 @@
     <div class="bg-teal-500 bg-opacity-40 rounded-2xl">
       <div class="bg-black m-4 rounded-2xl p-6">
         <h2 class="text-2xl font-semibold pb-4 uppercase">Flexibel ontwerp</h2>
-        <p>Als je zelf al een idee hebt over hoe aller er uit moet zien... Dan mag jij alles in de juiste richting leiden. Ik zorg enkel voor de realisatie van jouw project.</p>
+        <p>Als je zelf al een idee hebt over hoe alles er uit moet zien... Dan mag jij alles in de juiste richting leiden. Ik zorg enkel voor de realisatie van jouw project.</p>
         <br>
         <p>En is dat niet het geval? Geen probleem, ik help je mee met het zoeken naar jouw stijl!</p>
       </div>

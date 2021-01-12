@@ -5,20 +5,18 @@
       <div class="space-y-4 transform -translate-x-8 bg-white bg-opacity-30 w-80 h-80 md:w-172 md:h-172 rounded-full text-center p-12">
         <h2 class="text-xl uppercase font-semibold">Mijn allereerste project!</h2>
         <img class="w-52 mx-auto" src="/src/assets/Omnimove.png" alt="">
-        <p class="hidden md:block">Bij deze webste hoort een speciaal verhaal.
+        <p class="hidden md:block">Bij deze website hoort een speciaal verhaal.
           Deze website is gemaakt voor (CrossFit) Omnimove. Of eigenlijk is deze gemaakt voor STER atleet en coach Lien
           Van Hemelen.
           Zij heeft namenlijk het 'Guinness World Record Most chest to ground push up burpees in one hour' verbroken in
           het jaar 2020.
           Deze website is gemaakt om haar tijdens haar poging tot het verbreken van dit wereldrecord, te helpen, te
           motiveren.
-          Ook maakte deze site het extra spannend omdat ze tot in detail mee konden volgen of haar tempo goed was of
-          hoger of lager mocht
-          om het record te kunnen verbreken.
-          En aan het einde van de race zou deze website wel eens het verschil hebben kunnen maken
-          omdat zij en haar coach wisten hoeveel ze er nog moest doen binnen de laatste minuten.</p>
+          En voor het publiek was dit een leuke extra omdat ze tot in detail mee konden volgen of haar tempo goed was of
+          hoger of lager mocht om het record te kunnen verbreken.
+          Aan het einde van de race was het dan ook super spannend om te zien hoeveel burpees ze nog moest doen binnen de laatste minuten / seconden.</p>
         <br>
-        <p class="hidden md:block px-12">Moest je meer willen weten over haar verhaal en dat van Omnimove... bezoek <span>hier</span> de
+        <p class="hidden md:block px-12">Moest je meer willen weten over haar verhaal en dat van Omnimove... bezoek <a class="underline" href="https://omnimove.health/magazine/omnimove-atlete-lien-zet-nieuw-wereldrecord" target="_blank">hier</a> de
           website van Omnimove
           om meer te weten te komen!</p>
         <button
@@ -84,7 +82,7 @@
         </div>
         <div class="px-32">
           <p>Deze website is op maat gemaakt en heeft verschillende functies.
-            Zo maakt deze het voor Collibri gemakkelijk om vershcillende dingen beter bij te
+            Zo maakt deze het voor Collibri gemakkelijk om verschillende dingen beter bij te
             houden en weer te geven in een proper overzicht.</p>
         </div>
         <img class="w-72 pt-12" src="/src/assets/werkuren.png" alt="">
