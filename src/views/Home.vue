@@ -59,7 +59,9 @@
       <div class="flex-1 transform -translate-y-16 ml-6 sm:ml-0">
         <div class="mt-20 mr-32">
           <div class="flex justify-end">
-            <img class="w-24 bg-white p-1 rounded-lg" src="/src/assets/key_1.svg" alt=""/>
+            <div>
+              <img class="w-24 bg-white p-1 rounded-lg" src="/src/assets/key_1.svg" alt=""/>
+            </div>
           </div>
           <div class="text-justify my-8">
             -- Beschik je al over een website? Maar is deze niet meer up-to-date met je diensten?
