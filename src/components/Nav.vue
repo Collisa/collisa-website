@@ -23,7 +23,7 @@
         <div v-show="isActive" class="flex flex-col lg:flex-row space-y-3 lg:space-y-0 lg:space-x-3 items-end lg:items-center bg-gray-950 p-4 lg:p-0 rounded-xl lg:bg-black">
           <div class="inline-block relative">
             <router-link
-                exact-active-class="bg-purplepink-400 bg-opacity-40 text-pink-300 text-opacity-50"
+                exact-active-class="bg-purplepink-400 bg-opacity-40 text-pink-300 text-opacity-50 z-40"
                 class="p-1 rounded-md hover:bg-opacity-20 hover:text-opacity-50"
                 :class="getCurrentHoverColor"
                 to="/">Home
@@ -31,7 +31,7 @@
           </div>
           <div class="inline-block relative">
             <router-link
-                exact-active-class="bg-teal-500 bg-opacity-40 text-teal-500 text-opacity-50"
+                exact-active-class="bg-teal-500 bg-opacity-40 text-teal-500 text-opacity-50 z-40"
                 class="p-1 rounded-md hover:bg-opacity-20 hover:text-opacity-50"
                 :class="getCurrentHoverColor"
                 to="/about">About
@@ -39,7 +39,7 @@
           </div>
           <div class="inline-block relative">
             <router-link
-                exact-active-class="bg-white bg-opacity-40 text-white text-opacity-50"
+                exact-active-class="bg-white bg-opacity-40 text-white text-opacity-50 z-40"
                 class="p-1 rounded-md hover:bg-opacity-20 hover:text-opacity-50"
                 :class="getCurrentHoverColor"
                 to="/portfolio">Portfolio
@@ -47,7 +47,7 @@
           </div>
           <div class="inline-block relative">
             <router-link
-                exact-active-class="bg-orange-500 bg-opacity-40 text-orange-500 text-opacity-50"
+                exact-active-class="bg-orange-500 bg-opacity-40 text-orange-500 text-opacity-50 z-40"
                 class="p-1 rounded-md hover:bg-opacity-20 hover:text-opacity-50"
                 :class="getCurrentHoverColor"
                 to="/contact">Contact
@@ -55,7 +55,7 @@
           </div>
           <div class="inline-block relative">
             <router-link
-                exact-active-class="bg-lime-500 bg-opacity-40 text-lime-500 text-opacity-50"
+                exact-active-class="bg-lime-500 bg-opacity-40 text-lime-500 text-opacity-50 z-40"
                 class="p-1 rounded-md hover:bg-opacity-20 hover:text-opacity-50"
                 :class="getCurrentHoverColor"
                 to="/samenwerking">Samenwerking
@@ -63,7 +63,7 @@
           </div>
 
           <div class="inline-block relative">
-            <a href="https://github.com/LisaCollignon" target="_blank" class="">
+            <a href="https://github.com/LisaCollignon" target="_blank" class="z-40">
               <img class="w-7 p-1 rounded hover:bg-opacity-20"
                    :class="getCurrentHoverColor"
                    src="/src/assets/GitHub-Mark-Light-32px.png"/>
