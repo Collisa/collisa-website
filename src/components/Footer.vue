@@ -2,7 +2,7 @@
 
   <footer class="w-full h-28 rounded-t-3xl flex flex-col justify-end items-center text-opacity-30 bg-opacity-40 pb-4"
           :class="getCurrentColor">
-    <img class="h-16 pt-1 opacity-40" src="../assets/Collisa.png" alt="">
+    <img class="h-16 pt-1 opacity-40" src="../assets/logo-collisa-footer.png" alt="">
     <p>&copy; Lisa Collignon</p>
   </footer>
 
