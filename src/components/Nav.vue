@@ -83,7 +83,7 @@
       </div>
 
 
-      <div class="lg:flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-3 items-end md:items-center bg-gray-950 p-4 md:p-0 rounded-xl md:bg-black">
+      <div class="hidden lg:flex flex-col md:flex-row space-y-3 md:space-y-0 md:space-x-3 items-end md:items-center bg-gray-950 p-4 md:p-0 rounded-xl md:bg-black">
         <div class="inline-block relative">
           <router-link
               exact-active-class="bg-purplepink-400 bg-opacity-40 text-pink-300 text-opacity-50"
