@@ -6,7 +6,7 @@
     <div class="relative flex-1 rounded-r-3xl h-96 transform translate-y-8 overflow-hidden">
       <div class="z-20 w-full h-full absolute right-0 bg-purplepink-600 bg-opacity-50 md:max-w-3xl xl:rounded-3xl"></div>
       <div class="absolute z-10 top-40 left-20 text-center text-2xl hidden xl:block font-redressed">
-        <img class="pb-6" src="src/assets/_collisa_wit.svg" alt="">
+        <img class="pb-6" src="/src/assets/_collisa_wit.svg" alt="">
         <p>by <br> Lisa Collignon</p>
       </div>
       <img class="bg-white p-1 absolute z-10 top-10 right-10 h-40 sm:h-48 md:h-56 lg:top-6 lg:right-6 lg:h-64 rounded-lg" src="/src/assets/monitor.svg" alt="pc" />
