@@ -18,7 +18,7 @@
         </svg>
       </button>
 
-      <div class="absolute lg:hidden top-16 right-8 z-10">
+      <div class="absolute lg:hidden top-16 right-8 z-30">
 
         <div v-show="isActive" class="flex flex-col lg:flex-row space-y-3 lg:space-y-0 lg:space-x-3 items-end lg:items-center bg-gray-950 p-4 lg:p-0 rounded-xl lg:bg-black">
           <div class="inline-block relative">
