@@ -4,7 +4,7 @@
     <div class="flex relative">
       <div class="space-y-4 transform -translate-x-8 bg-white bg-opacity-30 w-80 h-80 md:w-172 md:h-172 rounded-full text-center p-12">
         <h2 class="text-xl uppercase font-semibold">Mijn allereerste project!</h2>
-        <img class="w-52 mx-auto" src="../assets/omnimove.png" alt="">
+        <img class="w-52 mx-auto" src="/src/assets/omnimove.png" alt="">
         <p class="hidden md:block">Bij deze webste hoort een speciaal verhaal.
           Deze website is gemaakt voor (CrossFit) Omnimove. Of eigenlijk is deze gemaakt voor STER atleet en coach Lien
           Van Hemelen.
@@ -33,7 +33,7 @@
         <div
             class="z-10 bg-white md:absolute right-0 transform translate-x-8 translate-y-6 md:-translate-y-40 bg-opacity-60 w-72 h-72 rounded-full flex justify-center items-center">
           <div class="rounded-full overflow-hidden bg-black w-60 h-60 flex justify-center items-center">
-            <img class="w-24 rounded-lg" src="../assets/dolcegusto.png" alt="">
+            <img class="w-24 rounded-lg" src="/src/assets/dolcegusto.png" alt="">
           </div>
         </div>
         <div class="bg-white bg-opacity-30 h-80 w-80 md:h-150 md:w-150 rounded-full flex flex-col justify-center items-center px-16">
@@ -58,7 +58,7 @@
     <div class="relative text-center mt-12">
       <div class="flex flex-col justify-center items-center bg-white bg-opacity-30 w-80 h-80 md:w-172 md:h-172 rounded-full">
         <h2 class="text-xl font-semibold uppercase">Papa's kerstcadeau</h2>
-        <img class="w-48 md:w-96 py-6" src="../assets/andrees.png" alt="">
+        <img class="w-48 md:w-96 py-6" src="/src/assets/andrees.png" alt="">
         <p class="hidden md:block px-24">
           Bovenstaande website was eigenlijk een idee van mijn broer.
           Hij heeft een VDAB opleiding gedaan tot JAVA-consultant en wou voor papa zijn foto's een website maken
@@ -79,27 +79,27 @@
       <div class="mx-auto flex flex-col justify-center items-center w-200 h-200 rounded-full bg-white bg-opacity-30">
         <h2 class="font-semibold text-xl uppercase">Project Collibri</h2>
         <div class="flex flex-row space-x-20 py-12">
-          <img class="w-48" src="../assets/login.png" alt="">
-          <img class="w-64" src="../assets/tabelenform.png" alt="">
+          <img class="w-48" src="/src/assets/login.png" alt="">
+          <img class="w-64" src="/src/assets/tabelenform.png" alt="">
         </div>
         <div class="px-32">
           <p>Deze website is op maat gemaakt en heeft verschillende functies.
             Zo maakt deze het voor Collibri gemakkelijk om vershcillende dingen beter bij te
             houden en weer te geven in een proper overzicht.</p>
         </div>
-        <img class="w-72 pt-12" src="../assets/werkuren.png" alt="">
+        <img class="w-72 pt-12" src="/src/assets/werkuren.png" alt="">
         <div class="md:absolute bg-white bottom-6 left-24 bg-opacity-60 w-32 h-32 rounded-full text-black uppercase font-bold hover:bg-opacity-20 hover:text-white pt-2 flex justify-center items-center">Private website</div>
       </div>
     </div>
 
     <div class="md:hidden mt-20 relative">
-      <img class="w-48 h-48 rounded-full mx-auto" src="../assets/login.png" alt="">
+      <img class="w-48 h-48 rounded-full mx-auto" src="/src/assets/login.png" alt="">
       <div class="w-72 h-72 rounded-full bg-white bg-opacity-30 flex flex-col justify-center items-center mx-auto">
         <p class="pb-2">Project Collibri</p>
-        <img class="w-60" src="../assets/tabelenform.png" alt="">
+        <img class="w-60" src="/src/assets/tabelenform.png" alt="">
       </div>
       <div class="w-64 h-64 mb-6 rounded-full bg-white bg-opacity-30 flex flex-col justify-center items-center mx-auto">
-        <img class="w-56 mx-auto" src="../assets/werkuren.png" alt="">
+        <img class="w-56 mx-auto" src="/src/assets/werkuren.png" alt="">
       </div>
       <div class="absolute flex justify-center items-center text-center left-4 bottom-4 bg-white bg-opacity-60 w-32 h-32 rounded-full text-black uppercase font-bold hover:bg-opacity-20 hover:text-white pt-2">Private website</div>
     </div>

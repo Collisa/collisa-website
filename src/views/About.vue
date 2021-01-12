@@ -8,7 +8,7 @@
         <p class="pb-6 px-6">Elke website is bedoeld om weer te geven op zowel een klein en een groot scherm.</p>
       </div>
       <div class="hidden sm:block w-72 sm:w-48">
-        <img src="../assets/responsive.svg" alt="">
+        <img src="/src/assets/responsive.svg" alt="">
       </div>
     </div>
   </div>
@@ -16,7 +16,7 @@
   <div class="flex flex-col sm:flex-row p-24 space-y-8 sm:space-x-8 text-center items-center justify-center max-w-7xl mx-auto">
     <div class="bg-teal-500 bg-opacity-40 rounded-2xl">
       <div class="p-2 rounded-2xl w-60">
-        <img class="w-full" src="../assets/project_management.svg" alt="">
+        <img class="w-full" src="/src/assets/project_management.svg" alt="">
       </div>
     </div>
     <div class="bg-teal-500 bg-opacity-40 rounded-2xl">
@@ -39,14 +39,14 @@
       <p>Ook hiervoor kan gezorgd worden. Ik help je met het ontwikkelen van net datgene dat jij nodig hebt!</p>
     </div>
     <div>
-      <img class="w-40 sm:w-96 pb-12 sm:pb-0" src="../assets/analysis.svg" alt="">
+      <img class="w-40 sm:w-96 pb-12 sm:pb-0" src="/src/assets/analysis.svg" alt="">
     </div>
   </div>
 
   <div class="flex flex-row p-24 sm:space-x-8 text-center items-center justify-center max-w-7xl mx-auto">
     <div class="bg-teal-500 bg-opacity-40 rounded-2xl hidden sm:block">
       <div class="p-2 rounded-2xl sm:w-60">
-        <img class="w-full" src="../assets/idea.svg" alt="">
+        <img class="w-full" src="/src/assets/idea.svg" alt="">
       </div>
     </div>
     <div class="bg-teal-500 bg-opacity-40 rounded-2xl">

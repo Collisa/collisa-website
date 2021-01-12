@@ -27,11 +27,11 @@
         <div class="hidden sm:block triangle-top opacity-40"></div>
         <div class="space-y-6 mx-auto">
           <div class="">
-            <img class="w-32 bg-white rounded-2xl p-1 mx-auto mb-2" src="../assets/phone_receiver.svg" alt="">
+            <img class="w-32 bg-white rounded-2xl p-1 mx-auto mb-2" src="/src/assets/phone_receiver.svg" alt="">
             <a href="tel:+32472767328">+32472767328</a>
           </div>
           <div>
-            <img class="w-32 bg-white rounded-2xl p-1 mx-auto mb-2" src="../assets/mail.svg" alt="">
+            <img class="w-32 bg-white rounded-2xl p-1 mx-auto mb-2" src="/src/assets/mail.svg" alt="">
             <a href="mailto:lisa.collignon@hotmail.be">lisa.collignon@hotmail.be</a>
           </div>
         </div>

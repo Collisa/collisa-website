@@ -6,10 +6,10 @@
     <div class="relative flex-1 rounded-r-3xl h-96 transform translate-y-8 overflow-hidden">
       <div class="z-20 w-full h-full absolute right-0 bg-purplepink-600 bg-opacity-50 md:max-w-3xl xl:rounded-3xl"></div>
       <div class="absolute z-10 top-40 left-20 text-center text-2xl hidden xl:block font-redressed">
-        <img class="pb-6" src="../assets/_collisa_wit.svg" alt="">
+        <img class="pb-6" src="/src/assets/_collisa_wit.svg" alt="">
         <p>by <br> Lisa Collignon</p>
       </div>
-      <img class="bg-white p-1 absolute z-10 top-10 right-10 h-40 sm:h-48 md:h-56 lg:top-6 lg:right-6 lg:h-64 rounded-lg" src="../assets/monitor.svg" alt="pc" />
+      <img class="bg-white p-1 absolute z-10 top-10 right-10 h-40 sm:h-48 md:h-56 lg:top-6 lg:right-6 lg:h-64 rounded-lg" src="/src/assets/monitor.svg" alt="pc" />
     </div>
 
     <div class="flex-1">
@@ -51,7 +51,7 @@
               </router-link>
             </div>
             <div class="flex justify-start mt-2">
-              <img class="h-36 bg-white p-1 rounded-lg" src="../assets/web_design.svg" alt=""/>
+              <img class="h-36 bg-white p-1 rounded-lg" src="/src/assets/web_design.svg" alt=""/>
             </div>
           </div>
         </div>
@@ -59,7 +59,7 @@
       <div class="flex-1 transform -translate-y-16 ml-6 sm:ml-0">
         <div class="mt-20 mr-32">
           <div class="flex justify-end">
-            <img class="w-24 bg-white p-1 rounded-lg" src="../assets/key_1.svg" alt=""/>
+            <img class="w-24 bg-white p-1 rounded-lg" src="/src/assets/key_1.svg" alt=""/>
           </div>
           <div class="text-justify my-8">
             -- Beschik je al over een website? Maar is deze niet meer up-to-date met je diensten?
@@ -83,7 +83,7 @@
   <div class="relative transform -translate-y-28">
     <div class="flex flex-row mx-auto max-w-7xl">
       <div class="w-2/3 flex flex-row relative mr-6">
-        <img class="ml-12 mb-12 bg-white p-1 rounded-lg w-16 self-end hidden md:block" src="../assets/website.svg"/>
+        <img class="ml-12 mb-12 bg-white p-1 rounded-lg w-16 self-end hidden md:block" src="/src/assets/website.svg"/>
         <div class="m-10 flex flex-col text-justify">
           -- Ben je niet alleen op zoek naar een website, maar naar een web applicatie op maat gemaakt?
           Ook hiervoor ben je bij mij op de juiste plaats! Samen kunnen we net datgene maken dat jij nodig hebt! --
@@ -93,7 +93,7 @@
         </div>
       </div>
       <div class="flex justify-end items-start">
-        <img class="bg-white p-1 rounded-xl w-24 transform sm:transform-none -translate-x-12 -translate-y-32 xl:transform xl:translate-x-44" src="../assets/code.svg"/>
+        <img class="bg-white p-1 rounded-xl w-24 transform sm:transform-none -translate-x-12 -translate-y-32 xl:transform xl:translate-x-44" src="/src/assets/code.svg"/>
       </div>
     </div>
     <div class="absolute h-full top-0 w-2/3 h-44 bg-purplepink-600 bg-opacity-50 rounded-r-2xl"></div>
