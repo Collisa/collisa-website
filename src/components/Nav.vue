@@ -6,7 +6,7 @@
     <div class="flex flex-row justify-between px-8 py-5 items-center relative">
       <div class="pl-2 font-semibold text-xl flex flex-row items-center space-x-6">
 <!--        <p>Lisa Collignon</p>-->
-        <img class="h-6" src="/src/assets/_collisa_wit.svg" alt="">
+        <img class="h-6" src="src/assets/_collisa_wit.svg" alt="">
       </div>
 
       <button @click="isActive = !isActive" v-click-away="onClickAway" class="lg:hidden rounded focus:outline-none focus:ring-2 focus:ring-purplepink-400 focus:ring-opacity-40">
