@@ -32,7 +32,7 @@
           </div>
           <div>
             <img class="w-32 bg-white rounded-2xl p-1 mx-auto mb-2" src="/src/assets/mail.svg" alt="">
-            <a href="mailto:lisa.collignon@hotmail.be">lisa.collignon@hotmail.be</a>
+            <a href="mailto:hello@collisa.be">hello@collisa.be</a>
           </div>
         </div>
         <div class="hidden sm:block triangle-bottom opacity-40"></div>
