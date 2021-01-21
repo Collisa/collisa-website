@@ -59,11 +59,11 @@
         <img class="w-48 md:w-96 py-6" src="/src/assets/andrees.png" alt="">
         <p class="hidden md:block px-24">
           Bovenstaande website was eigenlijk een idee van mijn broer.
-          Hij heeft een VDAB opleiding gedaan tot JAVA-consultant en wou voor papa zijn foto's een website maken
+          Hij heeft een VDAB opleiding gedaan tot JAVA-consultant en wou voor de foto's van onze papa een website maken
           om bezig te blijven met programmeren.
           Maar bij hem is het een idee gebleven.
           En bij mij is het een echt product geworden.
-          Deze website is uiteindelijk als kerstcadeau aan mij papa gepresenteerd.
+          Deze website is uiteindelijk als kerstcadeau aan mijn papa gepresenteerd.
           Hij kan hier zelf nu zijn foto's uploaden en enkele wijzigingen aanbrengen.
         </p>
       </div>
