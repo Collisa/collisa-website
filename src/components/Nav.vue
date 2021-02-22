@@ -68,7 +68,7 @@
             </div>
 
             <div class="inline-block relative">
-              <a href="https://github.com/LisaCollignon" target="_blank" class="z-40">
+              <a href="https://github.com/Collisa" target="_blank" class="z-40">
                 <img class="w-7 p-1 rounded hover:bg-opacity-20"
                      :class="getCurrentHoverColor"
                      src="/src/assets/GitHub-Mark-Light-32px.png"/>
@@ -132,7 +132,7 @@
         </div>
 
         <div class="inline-block relative">
-          <a href="https://github.com/LisaCollignon" target="_blank" class="">
+          <a href="https://github.com/Collisa" target="_blank" class="">
             <img class="w-7 p-1 rounded hover:bg-opacity-20"
                    :class="getCurrentHoverColor"
                    src="/src/assets/GitHub-Mark-Light-32px.png"/>
